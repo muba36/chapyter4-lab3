@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-other file edited
-
-=======
 file
->>>>>>> b184a096f21eda5278972bfeefec64a8adfc0ea3
-=======
-
-rrtrtrtr
->>>>>>> 86c04c15d8db7f2b02ccaf5994f1b31349c62ea1
